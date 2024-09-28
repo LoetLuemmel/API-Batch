@@ -18,3 +18,5 @@ Und erhält auch Ergebnisse:
 
 <img width="1302" alt="image" src="https://github.com/user-attachments/assets/2da85b26-e155-4b1f-9187-38682824b5c3">
 
+Schauen Sie sich bitte die Datei <code>batchinput.json</code> an. Hier wird Ihnen der Aufbau dieser Requests schnell klar.
+
